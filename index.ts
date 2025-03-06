@@ -12,3 +12,4 @@ const meuCarro: Carro = {
     motor: "1.6 Flex"
 };
 console.log("Meu Carro:", meuCarro);
+
